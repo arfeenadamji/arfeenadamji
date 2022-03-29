@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arfeenadamji
-- 👀 I’m interested in web-development
-- 🌱 Currently working on React Native
-- 🌱 I’m currently learning Angular& ReactJS & React Native
+- 👀 I’m interested in Mobile App & web-App
+- 🌱 Currently working on Mobile App(React-Native)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arfeenm9@gmail.com
 
